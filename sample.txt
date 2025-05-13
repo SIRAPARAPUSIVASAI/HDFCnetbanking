@@ -1,1 +1,1 @@
-echo ""[Dthis is the first sample"
+this is first sample recreate
